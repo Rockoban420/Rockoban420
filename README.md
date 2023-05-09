@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 welcome to my github profile!
 
 - 🔭 I’m currently working on Coding Bootcamp and I've been having the most AMAZING time our teacher is incredibly smart and easy to follow and have been learning and picking up new technologies every week now working on back-end and our second project!
 
