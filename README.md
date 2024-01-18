@@ -1,8 +1,8 @@
 ### Hi there 👋 welcome to my github profile!
 
-- 🔭 I’m currently working on Coding Bootcamp and I've been having the most AMAZING time our teacher is incredibly smart and easy to follow and have been learning and picking up new technologies every week now working on back-end and our second project!
-
-- 🌱 I’m currently learning how to build full-stack applications with node handlebars logic and RESTful APIs using express and MySQL
+- 🔭 I graduated the UC Berkeley Coding Bootcamp and now im teaching myself web design and animations. My main area of expertise is the MEARN stack with React and graphQL 
+  
+- 🌱 I’m currently working for an early stage startup parenteai.com as a Front End Developer
 
 - 📫 How to reach me: My email address is lautaro.avellaneda@gmail.com 
 
