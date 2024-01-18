@@ -2,7 +2,7 @@
 
 - 🔭 I graduated the UC Berkeley Coding Bootcamp and now im teaching myself web design and animations. My main area of expertise is the MEARN stack with React and graphQL 
   
-- 🌱 I’m currently working for an early stage startup parenteai.com as a Front End Developer
+- 🌱 I’m currently working for an early stage startup parenteai.com as a Front End Developer. I was also hired as a Instructional Specialist at the UC Berkeley Coding Bootcamp by 2U
 
 - 📫 How to reach me: My email address is lautaro.avellaneda@gmail.com 
 
